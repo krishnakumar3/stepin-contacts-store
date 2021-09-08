@@ -5,10 +5,10 @@
 ## High Level Test Plan
 
 | Test Id | Description                         | Exp. i/p         | Exp. O/p                  | Actual O/p                | Test Type                         |
-| ------- | ----------------------------------- | ---------------- | ------------------------- | ------------------------- | --------------------------------- | ----------- |
+| ------- | ----------------------------------- | ---------------- | ------------------------- | ------------------------- | --------------------------------- |
 | H01     | Check if menu is displayed properly | Option Selection | Formatted Menu Page       | Formated Menu Page        | Requirements                      |
 | H02     | Function working properly or not    | Function call    | Proper function Execution | Proper function Execution | Requirement                       |
-| H03     | Switch case working                 | Option           | Function call             |                           | Function call according to option | Requirement |
+| H03     | Switch case working                 | Option           | Function call             | Function call according to option | Requirement |
 
 # Low Level Test Plan
 
