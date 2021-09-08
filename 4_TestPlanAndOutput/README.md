@@ -14,7 +14,8 @@
 
 | Test Id | Description            | Exp. i/p               | Exp. O/p                               | Actual O/p                         | Test Type |
 | ------- | ---------------------- | ---------------------- | -------------------------------------- | ---------------------------------- | --------- |
-| L01     | Adding Contect to file | Detail of Contect      | Success->Menu;Failure->Exit            | Success->Menu;Failure->Exit        | Technical |
-| L02     | Deleting Contect       | Number of Person       | Present->Deleted;Absent->Not found     | Present->Deleted;Absent->Not found | Technical |
-| Lo3     | Editing Contect        | Number of Person       | Present->Edited;Absent->Not found      | Present->edited;Absent->Not found  | Technical |
-| L04     | Display List           | Give option for search | Success->List of Contect;Failure->Menu | Success->List;Failure->error       | Technical |
+| L01     | Adding Contact to file | Detail of Contact      | Success->Menu;Failure->Exit            | Success->Menu;Failure->Exit        | Technical |
+| L02     | Deleting Contact       | Number of Person       | Present->Deleted;Absent->Not found     | Present->Deleted;Absent->Not found | Technical |
+| Lo3     | Editing Contact        | Number of Person       | Present->Edited;Absent->Not found      | Present->edited;Absent->Not found  | Technical |
+| L04     | Display List           | Give option for search | Success->List of Contact;Failure->Menu | Success->List;Failure->error       | Technical |
+|L05      |Adding contacts         | 1 (option required)    |Success->space for entering details;Failure->Invalid|Success->space for entering details;Failure->Invalid|Technical|
