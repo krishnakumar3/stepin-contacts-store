@@ -1,5 +1,7 @@
 # stepin-contacts-store
+#BADGES
 ![code grade](https://www.code-inspector.com/project/27513/status/svg)
+![code Quality Score](https://www.code-inspector.com/project/27513/score/svg)
 
 # Contacts Store
 
